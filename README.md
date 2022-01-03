@@ -1,4 +1,4 @@
-### Hello i'm Luan Marçal, see below some repositories!👋
+### Hello I'm Luan Marçal, see below some repositories!👋
 
 <!--
 **luanmarcal/luanmarcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
