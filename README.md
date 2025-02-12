@@ -14,8 +14,9 @@
 <br>
 <br>
 <br>
-<p align="center">
-<a href="https://br.linkedin.com/in/luan-mar%C3%A7al-71b111220" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="40" width="40" /></a>
+<p align="center" margin-right="2px">
+<a href="https://br.linkedin.com/in/luan-mar%C3%A7al-71b111220" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Luan's Linkedin" height="40" width="40" /></a>
+<a href="mailto:luaan.miguel13@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Luan's Gmail" height="40" width="40" /></a> 
 </p>
 <br>
 <br>
